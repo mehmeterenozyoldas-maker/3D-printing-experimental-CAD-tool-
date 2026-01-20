@@ -1,0 +1,7 @@
+{
+  "name": "3D Puzzle Lab — Audio Reactive",
+  "description": "An interactive 3D particle puzzle that reacts to microphone audio input. Features instanced mesh rendering, audio analysis, and physics-based animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
